@@ -1,0 +1,12 @@
+{
+	"author": "Soljian",
+	"version": "1.0.0",
+	"server_scripts": [
+		"bpstreamer_s.lua"
+	],
+	"client_scripts": [
+		"bpstreamer_c.lua"
+	],
+	"files": [
+	]
+}
