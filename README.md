@@ -4,6 +4,8 @@ Serverside streamed blueprints.
 
 [![Image from Gyazo](https://i.gyazo.com/220b7f6411c326cc2dfee0128fca2433.jpg)](https://gyazo.com/220b7f6411c326cc2dfee0128fca2433)
 
+## [Changelog](https://github.com/soljian/bpstreamer/releases)
+
 This package allow developers to sync for everyone that is in range of streaming the spawn of a Blueprint made in Unreal Engine. The script use a object created on server and some ObjectProperties to carry datas.
 
 The blueprint can be attached to players, vehicles, objects, npcs (optionnal).
