@@ -10,11 +10,11 @@ This package allow developers to sync for everyone that is in range of streaming
 
 The blueprint can be attached to players, vehicles, objects, npcs (optionnal).
 
-A car on fire 
-[![Image from Gyazo](https://i.gyazo.com/ad1bbd4abdcf4e90d5766bdfe05cb70b.gif)](https://gyazo.com/ad1bbd4abdcf4e90d5766bdfe05cb70b)
+A car on fire  
+[![A car on fire ](https://i.imgur.com/6hH8URE.gif)](https://gyazo.com/ad1bbd4abdcf4e90d5766bdfe05cb70b)
 
-Kindof Ghost Rider
-[![Image from Gyazo](https://i.gyazo.com/0dd5d225a328fff1417152c7b9030a0b.gif)](https://gyazo.com/0dd5d225a328fff1417152c7b9030a0b)
+Kindof Ghost Rider  
+[![Kindof Ghost Rider](https://i.imgur.com/fc5MGhS.gif)](https://gyazo.com/0dd5d225a328fff1417152c7b9030a0b)
 
 The BP used in those examples was made from [M5 VFX Vol2](https://www.unrealengine.com/marketplace/en-US/product/m5-vfx-vol2-fire-and-flames).
 
@@ -113,4 +113,3 @@ The collisions of attached objects and blueprints will be disabled to avoid glit
 If your blueprint is spawning another blueprint or this kind of stuff, be carefull to destroy it yourself with `ProcessEvent` and functions you've made in it. The destroying via this script will only destroy the thing you spawned and none of its childrens.
 
 I'm open to suggestions ;)
-
